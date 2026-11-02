@@ -43,4 +43,4 @@ All hard drives eventually fail. A drive is not a backup, and RAID protects agai
 
 The sensible setup for most PCs is an SSD for the OS and apps plus an HDD for bulk storage. Prices are estimates and change often, so check the live listing.
 
-👉 Full comparison table, installation steps and FAQs: https://ssdguides.com/best-internal-hard-drives/
+👉 Full comparison table, installation steps and FAQs: https://ssdguides.com/best-internal-hard-drives/ 
